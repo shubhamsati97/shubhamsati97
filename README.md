@@ -1,10 +1,9 @@
 
 ## 👋 Hi, I’m SHUBHAM SATI
 
-- 👀 I’m interested in Python3,AWS,SQL
-- 🌱 I’m currently learning AWS Services,Typescript,Angular
-- 💞️ I’m looking to collaborate on Python3
-- 📫 How to reach me shubhamsati7991@gmail.com
+- 👀 I’m interested in learning and building scalable,high performance distributed systems.
+- 🌱 I’m currently learning ElasticSearch, Linux Networking and some cloud technologies.
+- 📫 Reach me at shubhamsati7991@gmail.com
 
 <!---
 shubhamsati97/shubhamsati97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
