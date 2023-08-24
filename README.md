@@ -2,7 +2,9 @@
 ## 👋 Hi, I’m SHUBHAM SATI
 
 - 👀 I’m interested in learning and building scalable,high performance distributed systems.
-- 🌱 I’m currently learning ElasticSearch, Linux Networking and some cloud technologies.
+- 🌱 I’m currently working on:
+     1) Exploiting shared memory channels across hosts
+     2) Citation recommendations based on context
 - 📫 Reach me at shubhamsati7991@gmail.com
 
 <!---
